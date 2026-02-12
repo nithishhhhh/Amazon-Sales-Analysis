@@ -8,6 +8,7 @@ The dataset contains **4,570 orders** and was analyzed using SQL queries involvi
 
 ---
 Project Preview
+(https://github.com/nithishhhhh/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Analysis.png)
 
 ---
 ##  Objectives
