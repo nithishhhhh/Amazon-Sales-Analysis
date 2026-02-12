@@ -7,8 +7,7 @@ This project analyzes Amazon sales data using SQL to extract business insights r
 The dataset contains **4,570 orders** and was analyzed using SQL queries involving aggregation, grouping, conditional logic, and sorting.
 
 ---
-Project Preview
-(https://github.com/nithishhhhh/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Analysis.png)
+[Project Preview](https://github.com/nithishhhhh/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Analysis.png)
 
 ---
 ##  Objectives
